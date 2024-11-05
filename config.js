@@ -86,60 +86,6 @@ const aIMG = [
     ],
   
 
-  [
-    "",
-    "https://cdn.star.nesdis.noaa.gov/GOES16/GLM/CONUS/EXTENT3/GOES16-CONUS-EXTENT3-625x375.gif",
-  ],
-
-  [
-  "",
-  "https://radar.weather.gov/ridge/standard/CONUS_loop.gif",
-  ],
-
-
-
-  [
-    "",
-    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/smv/AirMass/GOES16-SMV-AirMass-600x600.gif",
-  ],
-
-
-  [
-    "",
-    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/GM/Sandwich/GOES16-GM-Sandwich-1000x1000.gif", ".8",
-  ],
-
-  [
-    "",
-    "https://cdn.star.nesdis.noaa.gov/GOES16/GLM/SECTOR/smv/EXTENT3/GOES16-SMV-EXTENT3-600x600.gif",
-  ],
-
-
-  ["TROPICS", "https://cdn.star.nesdis.noaa.gov/GOES16/GLM/SECTOR/taw/EXTENT3/GOES16-TAW-EXTENT3-900x540.gif"],
-
-[
-    "WARNINGS",
-    "https://climate.cod.edu/data/satellite/regional/southcentral/current/southcentral.ww.gif",
-  ],
-
-
-
-  ["24HR FORECAST", "https://www.wpc.ncep.noaa.gov/noaa/noaad1.gif"],
-
-  [
-    "72HR FORECAST",
-    "https://www.wpc.ncep.noaa.gov/noaa/noaad3.gif",
-  ],
-
-  [
-    "ISS & RS-44 POSITION",
-    "https://www.heavens-above.com/orbitdisplay.aspx?icon=iss&width=600&height=300&mode=M&satid=25544",
-    "https://www.heavens-above.com/orbitdisplay.aspx?icon=default&width=600&height=300&mode=M&satid=44909",
-  ],
-
-  [
-    "",
-    "https://www.tideschart.com/tide-charts/en/Meaher-State-Park-Mobile-Bay-Baldwin-County-Alabama-United-States-tide-chart-30030859-ft.png?",
-  ],
+  
 
 ];
