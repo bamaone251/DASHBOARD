@@ -83,7 +83,7 @@ const aIMG = [
 
   [
     "",
-    "https://radar.weather.gov/ridge/standard/SOUTHMISSVLY_loop.gif",
+    "https://www.tropicaltidbits.com/storminfo/18L_tracks_latest.png",
     ],
   
 
