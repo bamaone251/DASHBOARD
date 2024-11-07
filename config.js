@@ -66,14 +66,15 @@ const aIMG = [
 
   [
     "",
-    "https://cdn.star.nesdis.noaa.gov/GOES16/GLM/SECTOR/car/EXTENT3/GOES16-CAR-EXTENT3-1000x1000.gif",
+    "https://cdn.star.nesdis.noaa.gov/GOES16/GLM/SECTOR/gm/EXTENT3/GOES16-GM-EXTENT3-1000x1000.gif",
   ],
 
   [
     "",
-    "https://www.youtube.com/embed/pJqrjIuvGFE" ,
+    "https://www.youtube.com/embed/N5wWOVOTHmQ", "https://www.youtube.com/embed/N5wWOVOTHmQ"
     ],
   
+    
 
   [
     "",
