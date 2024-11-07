@@ -83,7 +83,7 @@ const aIMG = [
 
   [
     "",
-    "https://www.tropicaltidbits.com/storminfo/18L_tracks_latest.png",
+    "https://climate.cod.edu/data/satellite/regional/southcentral/current/southcentral.ww.gif",
     ],
   
 
