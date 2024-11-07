@@ -83,7 +83,7 @@ const aIMG = [
 
   [
     "",
-    "https://climate.cod.edu/data/satellite/regional/southcentral/current/southcentral.ww.gif",
+    "https://radar.weather.gov/ridge/standard/CONUS_loop.gif",
     ],
   
 
