@@ -78,7 +78,7 @@ const aIMG = [
 
   [
     "",
-    "https://www.ssd.noaa.gov/PS/TROP/floaters/18L/imagery/rb_lalo-animated.gif",
+    "https://bamaone251.github.io/HQ/",
   ],
 
   [
@@ -132,15 +132,6 @@ const aIMG = [
     "https://www.wpc.ncep.noaa.gov/noaa/noaad3.gif",
   ],
 
-  [
-    "ISS & RS-44 POSITION",
-    "https://www.heavens-above.com/orbitdisplay.aspx?icon=iss&width=600&height=300&mode=M&satid=25544",
-    "https://www.heavens-above.com/orbitdisplay.aspx?icon=default&width=600&height=300&mode=M&satid=44909",
-  ],
-
-  [
-    "",
-    "https://www.tideschart.com/tide-charts/en/Meaher-State-Park-Mobile-Bay-Baldwin-County-Alabama-United-States-tide-chart-30030859-ft.png?",
-  ],
+  
 
 ];
